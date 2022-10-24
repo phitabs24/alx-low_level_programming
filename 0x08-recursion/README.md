@@ -1,21 +1,25 @@
-File 0-puts_recursion.c is a function that prints a string, followed by a new line.
+# RECURSION in C #
 
-File 1-print_rev_recursion.c is a function that prints a string in reverse.
+### Files and their functions ###
 
-File 2-strlen_recursion.c is a function that returns the length of a string.
+**[0-puts_recursion.c](0-puts_recursion.c)** is a function that prints a string, followed by a new line.
 
-File 3-factorial.c is a function that returns the factorial of a given number.
+**[1-print_rev_recursion.c](1-print_rev_recursion.c)** is a function that prints a string in reverse.
 
-File 4-pow_recursion.c is a function that returns the value of x raised to the power of y.
+**[2-strlen_recursion.c](2-strlen_recursion.c)** is a function that returns the length of a string.
 
-File 5-sqrt_recursion.c is a function that returns the natural square root of a number.
+**[3-factorial.c](3-factorial.c)** is a function that returns the factorial of a given number.
 
-File 6-is_prime_number.c is a function that returns 1 if the input integer is a prime number, otherwise return 0.
+**[4-pow_recursion.c](4-pow_recursion.c)** is a function that returns the value of x raised to the power of y.
 
-File 7-is_palindrome.c is a function that returns 1 if a string is a palindrome and 0 if not.
+**[5-sqrt_recursion.c](5-sqrt_recursion.c)** is a function that returns the natural square root of a number.
 
-File 100-wildcmp.c is a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0. It uses the concept of wildcards.
+**[6-is_prime_number.c](6-is_prime_number.c)** is a function that returns 1 if the input integer is a prime number, otherwise return 0.
 
-File _putchar.c is a file containing the _putchar function.
+**[100-is_palindrome.c](100-is_palindrome.c)** is a function that returns 1 if a string is a palindrome and 0 if not.
 
-File main.h is the header file containing the function prototypes.
+**[101-wildcmp.c](101-wildcmp.c)** is a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0. It uses the concept of wildcards.
+
+**[_putchar.c](_putchar.c)** is a file containing the _putchar function.
+
+**[main.h](main.h)** is the header file containing the function prototypes.
