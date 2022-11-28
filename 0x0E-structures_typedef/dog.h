@@ -18,6 +18,7 @@ struct dog
 
 /**
  * dog_t - typedef for struct dog
+ * contains prototypes
  */
 
 typedef struct dog dog_t;
