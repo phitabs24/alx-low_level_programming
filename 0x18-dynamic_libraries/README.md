@@ -1,6 +1,7 @@
-# 0x17. C - Dynamic libraries
+# 0x17. C - Dynamic libraries #
 
-## Table of contents
+## Table of contents ##
+
 Files | Description
 ----- | -----------
 [libdynamic.so](./libdynamic.so) | C dynamic library containing the function definitions
